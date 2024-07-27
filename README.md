@@ -1,4 +1,4 @@
-## Basic on screen object detection using YOLOv5x
+# Basic on screen object detection using YOLOv5x
 
 1. Clone the current repository
 
@@ -21,5 +21,5 @@ http://127.0.0.1:5000
 ```
 
 
-# PS
+### PS
 This is an old project that I never completely finished and pushed into github
