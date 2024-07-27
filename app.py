@@ -3,7 +3,7 @@ import cv2
 import torch
 
 # Load YOLOv5 model
-model = torch.hub.load('ultralytics/yolov5', 'yolov5s', pretrained=True)
+model = torch.hub.load('ultralytics/yolov5', 'yolov5x', pretrained=True)
 
 app = Flask(__name__)
 
